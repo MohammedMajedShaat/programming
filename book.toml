@@ -1,0 +1,13 @@
+[book]
+authors = ["Mohammed Majed Shaat"]
+language = "en"
+multilingual = false
+title = "Java Programming Language 1"
+
+[output.html]
+default-theme = "light"
+text-direction = "rtl"
+
+[build]
+build-dir = "book"
+create-missing = true
